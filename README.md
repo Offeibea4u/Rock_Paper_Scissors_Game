@@ -4,6 +4,7 @@ Contains A corresponsive Rock, Paper and Scissors Game code
 
 ## AUTHORS
 * [GRACE OFFEIBEA ANSAH](https://github.com/Offeibea4u)
+* Sherifatu Abdul Razak
 
 ## PROJECT INFORMATION
 This repository contains an interactive command-line project:
